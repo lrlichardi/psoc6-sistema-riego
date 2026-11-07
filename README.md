@@ -2,6 +2,12 @@
 
 Proyecto final desarrollado con una placa PSoC 6 CY8CPROTO-062-4343W y ModusToolbox. El sistema mide temperatura, humedad ambiente, humedad del suelo y nivel de agua para controlar una bomba de riego de 12 V mediante un modulo de rele.
 
+## Video de demostracion
+
+[![Demostracion del sistema de riego con PSoC 6](https://img.youtube.com/vi/HMHHp0fm4Ac/hqdefault.jpg)](https://youtu.be/HMHHp0fm4Ac)
+
+[Ver demostracion completa en YouTube](https://youtu.be/HMHHp0fm4Ac)
+
 ## Funciones principales
 
 - Lectura de temperatura y humedad ambiente con un DHT11.
